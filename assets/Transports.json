@@ -1,0 +1,22 @@
+[
+    {
+        "Type" : "Bus",
+        "Latitude" : 33.699010,
+        "Longitude" : -7.383426
+    },
+    {
+        "Type" : "Taxi",
+        "Latitude" : 33.700000,
+        "Longitude" : -7.383426
+    },
+    {
+        "Type" : "Bus",
+        "Latitude" : 33.698500,
+        "Longitude" : -7.383440
+    },
+    {
+        "Type" : "Train",
+        "Latitude" : 33.700100,
+        "Longitude" : -7.384000
+    }
+]
